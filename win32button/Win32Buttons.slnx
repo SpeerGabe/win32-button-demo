@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Win32Buttons.vcxproj" Id="b065bc9d-7e5a-4807-b4d6-e1b563d5cce0" />
+</Solution>
